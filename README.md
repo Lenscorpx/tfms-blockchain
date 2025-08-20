@@ -71,4 +71,4 @@ We welcome contributions from developers, activists, NGOs, and researchers.
 ## 📧 Contact  
 
 For collaboration or inquiries:  
-**Email:** team@tfms-blockchain.org (placeholder)  
+**Email:** team@tofongolamiso.org  
